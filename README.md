@@ -1,4 +1,4 @@
-# pawsnclaws
+# Paws & Claws
 Java Mini Project
 
 Paws and Claws is a animal rescue website working on Java. It is aimed at rescuing birds, animals and reptiles using a single platform. This website shows the details of specific animal or bird rescuers at a specific location. It also has a feature which enables you to register yourself as a volunteer/ rescuer and updates the database according to your location. 
